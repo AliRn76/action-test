@@ -9,7 +9,7 @@ setup(
     author_email='alirn76@yahoo.com',
     url='https://github.com/alirn76/panther',
     description='Fast &  Friendly, Web Framework For Building Async APIs',
-    long_description='',
+    long_description='This is log description',
     long_description_content_type='text/markdown',
     include_package_data=True,
     license='MIT',
