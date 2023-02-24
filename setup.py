@@ -3,7 +3,7 @@ from setuptools import setup
 
 setup(
     name='actiontest112',
-    version='2',
+    version='4',
     python_requires='>=3.11',
     author='Ali RajabNezhad',
     author_email='alirn76@yahoo.com',
